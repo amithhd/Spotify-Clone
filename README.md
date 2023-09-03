@@ -9,4 +9,3 @@ Spotify offers digital copyright restricted recorded audio content, including mo
 # view-2
 
 <img width="948" alt="2" src="https://user-images.githubusercontent.com/103755649/232839397-ecd64e0a-4e9a-4062-8367-69743b31e4dd.png">
-
